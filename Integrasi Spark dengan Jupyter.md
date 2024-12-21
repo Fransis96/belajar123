@@ -57,7 +57,7 @@ jupyter-notebook --generate-config
 ```bash
 nano /home/ubuntu/.jupyter/jupyter_notebook_config.py  
 ```
-  Kemudian Masukan:
+Kemudian Masukan:
 ```bash
 c.NotebookApp.ip = '0.0.0.0'
 c.NotebookApp.port = 8889
