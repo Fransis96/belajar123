@@ -1,10 +1,10 @@
 # BELAJAR GITHUB
 
 ## …or create a new repository on the command line  
-Buat file dengan nama README.md  
-```bash 
-echo "# MyRepo" >> README.md
+Buat file dengan nama README.md   
+```bash  echo "# MyRepo" >> README.md
 ```
+
 ```bash
 git init
 ```
