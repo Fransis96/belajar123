@@ -49,8 +49,8 @@ pip3 install notebook
 ```bash
 sudo apt install jupyter-core jupyter-notebook  
 ```
-13. Setelah selesai instalasi, kita perlu melakukan beberapa tahapan konfigurasi. Untuk membuat file konfigurasi dari jupyter notebook, gunakan perintah:  
-bash```
+13. Setelah selesai instalasi, kita perlu melakukan beberapa tahapan konfigurasi. Untuk membuat file konfigurasi dari jupyter notebook, gunakan perintah:
+```bash
 jupyter-notebook --generate-config
 ```
 14. Buka file konfigurasi Jupyter Notebook menggunakan text editor nano  
