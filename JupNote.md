@@ -4,7 +4,7 @@ Halo, selamat datang.
 File ini berisi kode catatan kaki sederhana!   
 
 ## Markdown 
-### Merubah warna text menggunakan tag <b>span</b> 
+### Merubah warna text menggunakan tag <<span>> 
 1. Teks berwarna merah menggunakan nama warna  
 <img src="img/JupNot/01.jpg" width="350" height="80"> <img src="img/JupNot/02.jpg" width="350" height="80">   
 ```bash
