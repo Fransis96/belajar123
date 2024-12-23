@@ -10,8 +10,8 @@ File ini berisi kode catatan kaki sederhana!
 ```bash
 <span style="color: red;">Teks ini berwarna merah</span>
 ```  
-2. Teks berwarna merah menggunakan hex / rgb  
-   <img src="profile.jpg" width="250" height="100">  
+2. Teks berwarna merah menggunakan hex / rgb
+<img src="profile.jpg" width="250" height="100">  
 ```bash
 <font color="red"> Teks ini berwana merah</font>
 ```  
