@@ -17,6 +17,7 @@ File ini berisi kode catatan kaki sederhana!
 ```
 3. Warna pada karakter tertentu  
 <img alt = "tes" src="img/JupNot/05.jpg" width="350" height="80">  
+
 ```
 salin text
 ```
