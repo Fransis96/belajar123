@@ -14,6 +14,7 @@ File ini berisi kode catatan kaki sederhana!
 ```bash
 <font color="red"> Teks ini berwana merah</font>
 ```
+![img01](img/JupNot/03.jpg) ![img02](img/JupNot/04.jpg)
 3. Warna pada karakter tertentu  
 ```bash
 <span style="color: red;">Merah Kuning Hijau</span>
