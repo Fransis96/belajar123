@@ -10,10 +10,11 @@ File ini berisi kode catatan kaki sederhana!
 ```bash
 <span style="color: red;">Teks ini berwarna merah</span>
 ```  
-2. Teks berwarna merah menggunakan hex / rgb  
+2. Teks berwarna merah menggunakan hex / rgb
+   ![img01](img/JupNot/03.jpg) ![img02](img/JupNot/04.jpg) 
 ```bash
 <font color="red"> Teks ini berwana merah</font>
-```
+```  
 3. Warna pada karakter tertentu  
 ```bash
 <span style="color: red;">Merah Kuning Hijau</span>
