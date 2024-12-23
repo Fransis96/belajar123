@@ -11,7 +11,7 @@ File ini berisi kode catatan kaki sederhana!
 <span style="color: red;">Teks ini berwarna merah</span>
 ```  
 2. Teks berwarna merah menggunakan hex / rgb  
-   ![img01](img/JupNot/03.jpg) ![img02](img/JupNot/04.jpg) 
+   <img src="profile.jpg" width="250" height="100">
 ```bash
 <font color="red"> Teks ini berwana merah</font>
 ```  
