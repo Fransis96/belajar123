@@ -6,7 +6,7 @@ File ini berisi kode catatan kaki sederhana!
 ## Markdown 
 ### Merubah warna text / karakter  
 1. Teks berwarna merah menggunakan nama warna  
-![Deskripsi Gambar](img/JupNot/01.jpg)  
+![img01](img/JupNot/01.jpg) ![img02](img/JupNot/02.jpg) 
 ```bash
 <span style="color: red;">Teks ini berwarna merah</span>
 ```  
