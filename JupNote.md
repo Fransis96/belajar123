@@ -16,8 +16,7 @@ File ini berisi kode catatan kaki sederhana!
 <span style="color: #ff0000;">Teks ini berwarna merah</span>  
 ```
 3. Warna pada karakter tertentu  
-<img alt = "tes" src="img/JupNot/05.jpg" width="350" height="80">  
-
+<img alt = "tes" src="img/JupNot/05.jpg" width="350" height="80">   
 ```
-salin text
+<span style="color: red;">Merah</span> <span style="color: yellow;">Kuning</span> <span style="color: green;">Hijau</span>
 ```
