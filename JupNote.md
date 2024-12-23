@@ -21,4 +21,10 @@ File ini berisi kode catatan kaki sederhana!
 <span style="color: red;">Merah <span style="color: yellow;">Kuning <span style="color: green;">Hijau</span>  
 ```
 ### Merubah warna text menggunakan tag <<c>font> 
+1. Teks berwarna merah menggunakan nama warna
+<img src="img/JupNot/06.jpg" width="350" height="80"> <img src="img/JupNot/07.jpg" width="350" height="80">  
+2. Teks berwarna merah menggunakan hex / rgb
+<img src="img/JupNot/08.jpg" width="350" height="80"> <img src="img/JupNot/09.jpg" width="350" height="80">
+3. Teks berwarna pada kata tertentu  
+<img src="img/JupNot/10.jpg" width="350" height="80"> <img src="img/JupNot/11.jpg" width="350" height="80">  
 
