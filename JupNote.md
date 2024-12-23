@@ -17,5 +17,5 @@ File ini berisi kode catatan kaki sederhana!
 ```  
 3. Warna pada karakter tertentu  
 ```bash
-<span style="color: red;">Merah Kuning Hijau</span>
+<span style="color: red;">Merah</span> <span style="color: yellow;">Kuning</span> <span style="color: green;">Hijau</span>
 ```  
