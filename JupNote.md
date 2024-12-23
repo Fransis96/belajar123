@@ -40,13 +40,13 @@ File ini berisi kode catatan kaki sederhana!
 <img src="img/JupNot/10.jpg" width="350" height="80"> <img src="img/JupNot/11.jpg" width="350" height="80">  
 
 #### Merubah warna latar belakang  
-menggunakan tag <<c>span>  
+1. menggunakan tag <<c>span>  
 ```
 <span style="background-color: #fff000;">Teks dengan latar belakang kuning</span>  
 ```
 <img src="img/JupNot/12.jpg" width="350" height="80"> <img src="img/JupNot/13.jpg" width="350" height="80">  
 
-menggunakan tag <<c>font>  
+2. menggunakan tag <<c>font>  
 ```
 <span style="background-color: #fff000;">Teks dengan latar belakang kuning</span>
 ```
