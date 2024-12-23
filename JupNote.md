@@ -14,9 +14,10 @@ File ini berisi kode catatan kaki sederhana!
 <img src="img/JupNot/03.jpg" width="350" height="80"> <img src="img/JupNot/04.jpg" width="350" height="80">  
 ```bash
 <span style="color: #ff0000;">Teks ini berwarna merah</span>  
+```  
+3. Teks berwarna merah pada karakter tertentu  
+<img src="img/JupNot/05.jpg" width="350" height="80">  
+```bash
+<span style="color: red;">Merah <span style="color: yellow;">Kuning <span style="color: green;">Hijau</span>  
 ```
-3. Warna pada karakter tertentu  
-<img alt = "tes" src="img/JupNot/05.jpg" width="350" height="80">   
-```
-<span style="color: red;">Merah <span style="color: yellow;">Kuning <span style="color: green;">Hijau
-```
+
