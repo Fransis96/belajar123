@@ -50,6 +50,6 @@ menggunakan tag <<c>font>
 ```
 <span style="background-color: #fff000;">Teks dengan latar belakang kuning</span>
 ```
-<img src="img/JupNot/12.jpg" width="350" height="80"> <img src="img/JupNot/13.jpg" width="350" height="80">  
+<img src="img/JupNot/12a.jpg" width="350" height="80"> <img src="img/JupNot/13.jpg" width="350" height="80">  
 
 
