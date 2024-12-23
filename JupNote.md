@@ -20,4 +20,5 @@ File ini berisi kode catatan kaki sederhana!
 ```bash
 <span style="color: red;">Merah <span style="color: yellow;">Kuning <span style="color: green;">Hijau</span>  
 ```
+### Merubah warna text menggunakan tag <<c>font> 
 
