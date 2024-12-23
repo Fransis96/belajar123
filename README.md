@@ -14,8 +14,5 @@ Untuk hasil dokumentasi dan pembelajaran lebih lanjut, Anda dapat mengunjungi [G
 Terima kasih telah mengunjungi repositori ini, dan kami berharap Anda mendapatkan manfaat dari materi yang disediakan. Jika ada pertanyaan atau kontribusi yang ingin diajukan, jangan ragu untuk membuka **Issue** atau **Pull Request**.  
 
 <br>  
-<<<<<<< HEAD
+
 Mari belajar bersama-sama dan berbagi pengetahuan!
-=======
-Mari belajar bersama-sama dan berbagi pengetahuan!
->>>>>>> dbf49238b2c30f4bbb8479aa3ca13392932e7265
