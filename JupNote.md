@@ -22,12 +22,18 @@ File ini berisi kode catatan kaki sederhana!
 ```
 ### Merubah warna text menggunakan tag <<c>font> 
 1. Teks berwarna merah menggunakan nama warna  
-<font color="red">Teks ini berwarna merah</font>  
+```
+<font color="red">Teks ini berwarna merah</font>
+```  
 <img src="img/JupNot/06.jpg" width="350" height="80"> <img src="img/JupNot/07.jpg" width="350" height="80">  
 3. Teks berwarna merah menggunakan hex / rgb  
-<font color="#ff0000">Teks ini berwarna merah</font>  
+```
+<font color="#ff0000">Teks ini berwarna merah</font>
+```  
 <img src="img/JupNot/08.jpg" width="350" height="80"> <img src="img/JupNot/09.jpg" width="350" height="80">  
 5. Teks berwarna pada kata tertentu  
-<font color="red">Merah <font color="green">Hijau <font color="blue">Biru</font>  
+```
+<font color="red">Merah <font color="green">Hijau <font color="blue">Biru</font>
+```  
 <img src="img/JupNot/10.jpg" width="350" height="80"> <img src="img/JupNot/11.jpg" width="350" height="80">  
 
