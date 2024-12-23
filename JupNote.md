@@ -17,6 +17,6 @@ File ini berisi kode catatan kaki sederhana!
 ```
 3. Warna pada karakter tertentu  
 <img src="img/JupNot/05.jpg" width="350" height="80">  
-```bash
+```bash 
 <span style="color: red;">Merah</span> <span style="color: yellow;">Kuning</span> <span style="color: green;">Hijau</span>
 ```
